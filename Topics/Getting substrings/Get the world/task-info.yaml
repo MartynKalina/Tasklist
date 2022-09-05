@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: <code>println(hello.replace("Hello ", ""))</code>
+- text: <code>println(hello.substringAfter('w'))</code>
+- text: <code>println(hello.substring(5, 11))</code>
+- text: <code>println(hello.substring(6))</code>
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8536#comment
+status: Solved
+record: -1
+local_check: false

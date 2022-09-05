@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Tasklist/task/build/
+/Tasklist/task/out/
+/Tasklist/task/out/production/classes/
+/Topics/Getting substrings/The last of u/out/
+/Topics/Getting substrings/The last of u/out/production/classes/
